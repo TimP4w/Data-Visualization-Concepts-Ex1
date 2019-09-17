@@ -1,4 +1,3 @@
-!!! This is the final version! The other one I've uploaded was wrong.
 
 Data Visualization Concepts - Assignment 1
  _______       ___   .___________.    ___   ____    ____  __       _______.
